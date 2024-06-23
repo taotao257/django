@@ -1,0 +1,6 @@
+.venv/Scripts/activate  啟動虛擬環境
+ctrl + c  跳出網頁
+python manage.py runserver 啟動網頁
+cd myproject 進入資料夾
+
+ORM (object relational mapping)
